@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Orb Controller</string>
+    <string name="service_name">Orb Controller Service</string>
+    <string name="accessibility_service_description">Orb Controller uses accessibility actions to allow users to trigger navigation (Back, Home, Recents, Notifications) from the floating bubble overlay without reaching for hardware or system navigation bars.</string>
+</resources>

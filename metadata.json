@@ -1,0 +1,6 @@
+{
+  "name": "Orb Controller",
+  "description": "Floating bubble overlay control hub for managing device navigation and apps on top of any screen",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
